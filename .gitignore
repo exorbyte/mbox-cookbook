@@ -45,4 +45,4 @@ htmlcov/
 *.tera
 *.dat
 
-/1-getting-started/datasets
+/01-getting-started/datasets
