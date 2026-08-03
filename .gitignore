@@ -46,3 +46,7 @@ htmlcov/
 *.dat
 
 /01-getting-started/datasets
+/01-getting-started/tmp_index
+/02-data-harmonization/aliases
+/02-data-harmonization/mappings
+/02-data-harmonization/tmp_index

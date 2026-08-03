@@ -15,13 +15,14 @@ New to M|BOX? Follow this order:
 
 1. [`01-getting-started/`](01-getting-started/) : install, first index, first match
 2. [`02-data-harmonization/`](02-data-harmonization/) : clean messy real world data before indexing
-3. [`03-recall-tuning/`](03-recall-tuning/) : control precision, weights, and matching modes
-4. [`04-explainability/`](04-explainability/) : understand why a match scored what it did
-5. [`05-agentic-ai/`](05-agentic-ai/) : use M|BOX as a tool inside LLM and agent workflows
-6. [`06-integrations/`](06-integrations/) : pandas pipelines, FastAPI services
-7. [`07-production/`](07-production/) : schemas, validation, benchmarks for real deployments
-8. [`08-use-cases/`](08-use-cases/) : complete end to end demo scenarios
-9. [`09-community/`](09-community/) : recipes contributed by the community
+3. [`03-index-configuration/`](03-index-configuration/) : declare explicit schemas with TableConfig, TableFieldConfig, and IndexType
+4. [`04-recall-tuning/`](04-recall-tuning/) : control precision, weights, and matching modes
+5. [`05-explainability/`](05-explainability/) : understand why a match scored what it did
+6. [`06-agentic-ai/`](06-agentic-ai/) : use M|BOX as a tool inside LLM and agent workflows
+7. [`07-integrations/`](07-integrations/) : pandas pipelines, FastAPI services
+8. [`08-production/`](08-production/) : validation and benchmarks for real deployments
+9. [`09-use-cases/`](09-use-cases/) : complete end to end demo scenarios
+10. [`10-community/`](10-community/) : recipes contributed by the community
 
 Each notebook is self contained. You do not need to work through the repo in order, jump to whatever solves your problem.
 
