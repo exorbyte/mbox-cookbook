@@ -1,0 +1,5 @@
+mbox>=0.1.1
+pandas>=2.0
+jupyter>=1.0
+notebook>=7.0
+ipykernel
