@@ -7,21 +7,21 @@ Practical, runnable recipes for the [M|BOX Python SDK](https://exorbyte.ai/produ
 pip install mbox
 ```
 
-[Get started in under 5 minutes](1-getting-started/01_installation_and_quickstart.ipynb) &nbsp;·&nbsp; [Full documentation](https://exorbyte.ai/produkte/mbox-python/docs/getting-started/overview-quickstart)
+[Get started in under 5 minutes](01-getting-started/01_installation_and_quickstart.ipynb) &nbsp;·&nbsp; [Full documentation](https://exorbyte.ai/produkte/mbox-python/docs/getting-started/overview-quickstart)
 
 ## Where to start
 
 New to M|BOX? Follow this order:
 
-1. [`1-getting-started/`](1-getting-started/) : install, first index, first match
-2. [`2-data-harmonization/`](2-data-harmonization/) : clean messy real world data before indexing
-3. [`3-recall-tuning/`](3-recall-tuning/) : control precision, weights, and matching modes
-4. [`4-explainability/`](4-explainability/) : understand why a match scored what it did
-5. [`5-agentic-ai/`](5-agentic-ai/) : use M|BOX as a tool inside LLM and agent workflows
-6. [`6-integrations/`](6-integrations/) : pandas pipelines, FastAPI services
-7. [`7-production/`](7-production/) : schemas, validation, benchmarks for real deployments
-8. [`8-use-cases/`](8-use-cases/) : complete end to end demo scenarios
-9. [`9-community/`](9-community/) : recipes contributed by the community
+1. [`01-getting-started/`](01-getting-started/) : install, first index, first match
+2. [`02-data-harmonization/`](02-data-harmonization/) : clean messy real world data before indexing
+3. [`03-recall-tuning/`](03-recall-tuning/) : control precision, weights, and matching modes
+4. [`04-explainability/`](04-explainability/) : understand why a match scored what it did
+5. [`05-agentic-ai/`](05-agentic-ai/) : use M|BOX as a tool inside LLM and agent workflows
+6. [`06-integrations/`](06-integrations/) : pandas pipelines, FastAPI services
+7. [`07-production/`](07-production/) : schemas, validation, benchmarks for real deployments
+8. [`08-use-cases/`](08-use-cases/) : complete end to end demo scenarios
+9. [`09-community/`](09-community/) : recipes contributed by the community
 
 Each notebook is self contained. You do not need to work through the repo in order, jump to whatever solves your problem.
 
@@ -30,9 +30,9 @@ Each notebook is self contained. You do not need to work through the repo in ord
 
 | Notebook | Launch |
 |---|---|
-| [Installation & Quickstart](1-getting-started/01_installation_and_quickstart.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/exorbyte/mbox-cookbook/blob/main/1-getting-started/01_installation_and_quickstart.ipynb)  |
-| [Loading Your Own CSV](1-getting-started/02_loading_your_own_csv.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/exorbyte/mbox-cookbook/blob/main/1-getting-started/02_loading_your_own_csv.ipynb) |
-| [Saving & Loading Indexes](1-getting-started/03_saving_and_loading_indexes.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/exorbyte/mbox-cookbook/blob/main/1-getting-started/03_saving_and_loading_indexes.ipynb) |
+| [Installation & Quickstart](01-getting-started/01_installation_and_quickstart.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/exorbyte/mbox-cookbook/blob/main/01-getting-started/01_installation_and_quickstart.ipynb)  |
+| [Loading Your Own CSV](01-getting-started/02_loading_your_own_csv.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/exorbyte/mbox-cookbook/blob/main/01-getting-started/02_loading_your_own_csv.ipynb) |
+| [Saving & Loading Indexes](01-getting-started/03_saving_and_loading_indexes.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/exorbyte/mbox-cookbook/blob/main/01-getting-started/03_saving_and_loading_indexes.ipynb) |
 
 
 ## Why deterministic matters
@@ -43,7 +43,7 @@ Most fuzzy matching today relies on embeddings and similarity scores you can't f
 
 * Python 3.9+
 * `pip install mbox`
-* Some recipes use `pandas`; a few in `5-agentic-ai/` also require an API key for the relevant LLM provider (noted at the top of each notebook)
+* Some recipes use `pandas`; a few in `05-agentic-ai/` also require an API key for the relevant LLM provider (noted at the top of each notebook)
 
 ## Contributing
 
