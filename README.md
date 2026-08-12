@@ -44,7 +44,7 @@ Most fuzzy matching today relies on embeddings and similarity scores you can't f
 
 * Python 3.9+
 * `pip install mbox`
-* Some recipes use `pandas`; a few in `05-agentic-ai/` also require an API key for the relevant LLM provider (noted at the top of each notebook)
+* Some recipes use `pandas`; most of `06-agentic-ai/` also requires an API key for the relevant LLM provider (noted at the top of each notebook)
 
 ## Contributing
 

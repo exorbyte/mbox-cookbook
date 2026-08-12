@@ -1,0 +1,81 @@
+product_id,product_name,category,unit_price
+BAT-101,Extended Battery Pack,Batteries,25.27
+BAT-102,Extended Battery Pack Pro,Batteries,34.04
+BAT-103,Extended Battery Pack Mini,Batteries,19.54
+BAT-104,Extended Battery Pack XL,Batteries,39.44
+BAT-105,Extended Battery Pack 2-Pack,Batteries,45.45
+BAT-106,Extended Battery Pack Replacement,Batteries,22.34
+BAT-107,Extended Battery Pack Compact,Batteries,21.77
+BAT-108,Extended Battery Pack Heavy Duty,Batteries,36.16
+POW-109,Portable Power Bank,Power,39.34
+POW-110,Portable Power Bank Pro,Power,48.56
+POW-111,Portable Power Bank Mini,Power,33.94
+POW-112,Portable Power Bank XL,Power,54.51
+POW-113,Portable Power Bank 2-Pack,Power,70.15
+POW-114,Portable Power Bank Fast Charge,Power,43.9
+POW-115,Portable Power Bank Slim,Power,37.8
+POW-116,Portable Power Bank Rugged,Power,47.59
+SEC-117,Motion Sensor Camera,Security,58.44
+SEC-118,Motion Sensor Camera Pro,Security,69.18
+SEC-119,Motion Sensor Camera Mini,Security,54.62
+SEC-120,Motion Sensor Camera Outdoor,Security,64.01
+SEC-121,Motion Sensor Camera Indoor,Security,61.61
+SEC-122,Motion Sensor Camera 2-Pack,Security,106.6
+SEC-123,Motion Sensor Camera Solar,Security,72.68
+SEC-124,Motion Sensor Camera Wired,Security,57.31
+AUT-125,Smart Relay Switch,Automation,19.66
+AUT-126,Smart Relay Switch Pro,Automation,28.42
+AUT-127,Smart Relay Switch Mini,Automation,12.94
+AUT-128,Smart Relay Switch Dual,Automation,24.94
+AUT-129,Smart Relay Switch Outdoor,Automation,25.44
+AUT-130,Smart Relay Switch Wi-Fi,Automation,24.96
+AUT-131,Smart Relay Switch Zigbee,Automation,28.36
+AUT-132,Smart Relay Switch 4-Pack,Automation,60.46
+SEC-133,Wireless Door Sensor,Security,14.32
+SEC-134,Wireless Door Sensor Pro,Security,25.2
+SEC-135,Wireless Door Sensor Mini,Security,9.01
+SEC-136,Wireless Door Sensor 2-Pack,Security,25.75
+SEC-137,Wireless Door Sensor Outdoor,Security,20.91
+SEC-138,Wireless Door Sensor Metal,Security,18.49
+SEC-139,Wireless Door Sensor Slim,Security,12.97
+SEC-140,Wireless Door Sensor Wi-Fi,Security,20.4
+POW-141,USB-C Charging Cable,Power,10.4
+POW-142,USB-C Charging Cable Pro,Power,19.08
+POW-143,USB-C Charging Cable 2m,Power,9.45
+POW-144,USB-C Charging Cable 3m,Power,12.57
+POW-145,USB-C Charging Cable Braided,Power,12.15
+POW-146,USB-C Charging Cable Fast Charge,Power,14.46
+POW-147,USB-C Charging Cable 2-Pack,Power,17.18
+POW-148,USB-C Charging Cable Right-Angle,Power,10.55
+LIG-149,LED Strip Light,Lighting,21.77
+LIG-150,LED Strip Light Pro,Lighting,31.23
+LIG-151,LED Strip Light Outdoor,Lighting,27.24
+LIG-152,LED Strip Light RGB,Lighting,28.92
+LIG-153,LED Strip Light Warm White,Lighting,23.03
+LIG-154,LED Strip Light 5m,Lighting,22.37
+LIG-155,LED Strip Light 10m,Lighting,31.8
+LIG-156,LED Strip Light Dimmable,Lighting,26.72
+AUT-157,Smart Plug Adapter,Automation,12.33
+AUT-158,Smart Plug Adapter Pro,Automation,23.45
+AUT-159,Smart Plug Adapter Mini,Automation,7.32
+AUT-160,Smart Plug Adapter Outdoor,Automation,18.75
+AUT-161,Smart Plug Adapter 4-Pack,Automation,42.55
+AUT-162,Smart Plug Adapter Wi-Fi,Automation,19.27
+AUT-163,Smart Plug Adapter Energy Monitor,Automation,19.1
+AUT-164,Smart Plug Adapter Dual,Automation,20.36
+SEC-165,Video Doorbell Unit,Security,79.69
+SEC-166,Video Doorbell Unit Pro,Security,89.55
+SEC-167,Video Doorbell Unit Mini,Security,73.46
+SEC-168,Video Doorbell Unit Wired,Security,77.06
+SEC-169,Video Doorbell Unit Battery,Security,81.63
+SEC-170,Video Doorbell Unit 2K,Security,93.54
+SEC-171,Video Doorbell Unit Solar,Security,92.42
+SEC-172,Video Doorbell Unit Chime Kit,Security,91.89
+AUT-173,Temperature Sensor Hub,Automation,33.15
+AUT-174,Temperature Sensor Hub Pro,Automation,42.03
+AUT-175,Temperature Sensor Hub Mini,Automation,27.71
+AUT-176,Temperature Sensor Hub Outdoor,Automation,38.19
+AUT-177,Temperature Sensor Hub Wi-Fi,Automation,39.23
+AUT-178,Temperature Sensor Hub Bluetooth,Automation,36.32
+AUT-179,Temperature Sensor Hub 2-Pack,Automation,57.85
+AUT-180,Temperature Sensor Hub Display,Automation,40.89

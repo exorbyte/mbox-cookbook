@@ -3,7 +3,8 @@ pandas>=2.0
 jupyter>=1.0
 notebook>=7.0
 ipykernel
-openai 
+openai
 octochains
 python-dotenv
 anthropic
+mcp

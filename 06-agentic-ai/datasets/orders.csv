@@ -1,0 +1,5 @@
+order_id,customer_id,product_id,status
+ORD-58291,CUST-1001,B88-EXT,shipped
+ORD-58304,CUST-1002,A12-PWR,delivered
+ORD-58317,CUST-1003,C99-SNS,processing
+ORD-58322,CUST-1004,D45-REL,shipped
