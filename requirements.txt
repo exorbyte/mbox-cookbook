@@ -8,3 +8,4 @@ octochains
 python-dotenv
 anthropic
 mcp
+fastapi
