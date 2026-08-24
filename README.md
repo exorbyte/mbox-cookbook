@@ -20,7 +20,7 @@ New to M|BOX? Follow this order:
 5. [`05-explainability/`](05-explainability/) : understand why a match scored what it did
 6. [`06-agentic-ai/`](06-agentic-ai/) : use M|BOX as a tool inside LLM and agent workflows
 7. [`07-integrations/`](07-integrations/) : pandas pipelines, FastAPI services
-8. [`08-production/`](08-production/) : validation and benchmarks for real deployments
+<!-- 8. [`08-production/`](08-production/) : validation and benchmarks for real deployments -->
 9. [`09-use-cases/`](09-use-cases/) : complete end to end demo scenarios
 10. [`10-community/`](10-community/) : recipes contributed by the community
 
