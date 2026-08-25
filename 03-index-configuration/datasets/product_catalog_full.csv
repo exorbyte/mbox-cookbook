@@ -1,0 +1,5 @@
+product_id,product_name,upc_code,quantity_in_stock,unit_price,warehouse_notes
+B88-EXT,Extended Battery Pack,12345678,140,24.99,Reorder soon
+A12-PWR,Portable Power Bank,98765432,76,39.50,Stable
+C99-SNS,Motion Sensor Camera,45612378,212,59.00,New shipment incoming
+D45-REL,Smart Relay Switch,78912345,58,18.75,Discontinuing Q3
