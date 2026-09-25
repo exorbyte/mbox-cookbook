@@ -59,7 +59,7 @@ def search_products(product_name: str, max_price: float | None = None, max_resul
         TableRecallFieldConfig(input_column="product_name", indexed_column="product_name",
                                 minimum_quality=0, weight=70, mode=TableRecallMode.APPROX),
         TableRecallFieldConfig(input_column="unit_price", indexed_column="unit_price",
-                                minimum_quality=0, weight=30, mode=TableRecallMode.NUM_LOWER)
+                                minimum_quality=0, weight=30, mode=TableRecallMode.NUM_LEQ)
     ]
     config = TableRecallConfig(fields=fields, max_results=max_results, min_total_match_value=0, include_field_scores=True)
     r = index.match(queries=pd.DataFrame({"product_name": [product_name], "unit_price": [max_price]}), config=config)
