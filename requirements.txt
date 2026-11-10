@@ -9,3 +9,4 @@ python-dotenv
 anthropic
 mcp
 fastapi
+openai-agents==0.24.0
