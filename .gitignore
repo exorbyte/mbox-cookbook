@@ -66,3 +66,6 @@ htmlcov/
 # (NUM_GEQ/NUM_LEQ are now hard boundaries, not gracefully decaying), the notebook
 # was rewritten against the new behavior and is no longer held back.
 /05-explainability/07-multi_field_weights_explained.ipynb
+# Internal planning notes, not for the public repo
+/TODO.md
+/CLAUDE.md
